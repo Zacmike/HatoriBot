@@ -1,0 +1,3 @@
+"""
+Cogs package for HatoriBotPy.
+"""
